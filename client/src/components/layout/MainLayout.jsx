@@ -8,7 +8,6 @@ const MainLayout = () => {
         {/* global loading */}
   
         {/* login modal */}
-        <AuthModal />
         {/* login modal */}
   
         <Box display="flex" minHeight="100vh">
